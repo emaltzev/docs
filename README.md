@@ -7,4 +7,5 @@
 [Тест кейсы](https://app.qase.io/project/G10?author=321&previewMode=side&suite=77&tab=) — содержит список проверок, необходимых для  тестирования.
 [Тест кейсы.pdf](https://github.com/user-attachments/files/20024011/default.pdf)
 
-
+[Отчет о дефектах](https://github.com/user-attachments/files/20029101/Issues.xlsx) —  содержит отчет о найденных дефектах на основании чек-листа и тестовых кейсов.  
+[Отчет о дефектах.pdf](https://github.com/user-attachments/files/20029088/G10-Test%2Brun%2B2025_05_03.pdf)
